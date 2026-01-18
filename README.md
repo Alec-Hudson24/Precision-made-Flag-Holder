@@ -28,7 +28,7 @@
 - Add engraved elements 
 - Experiment with materials (brass/steel for heavier duty, anodized aluminum for color)
 
-# Model Photo
+# Model Photos
 ![Precision Machined Flag Holder Top](https://github.com/Alec-Hudson24/Precision-made-Flag-Holder/blob/main/Top%20View.jpeg) 
 ![Precision Machined Flag Holder Screw](https://github.com/Alec-Hudson24/Precision-made-Flag-Holder/blob/main/Screw.jpeg) 
 ![Precision Machined Flag Holder Screw](https://github.com/Alec-Hudson24/Precision-made-Flag-Holder/blob/main/Back%20Plate.jpeg) 
