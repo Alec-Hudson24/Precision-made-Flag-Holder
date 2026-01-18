@@ -6,7 +6,7 @@
 - **Primary Features**:
   - Sturdy base and vertical pole holder designed to securely display a flag 
   - Precision-turned cylindrical pole mount press-fit into base
-  - Milled and lathed features including counterbores, slots, chamfers, and flat mounting surfaces for stability and aesthetics
+  - Milled and lathed features including counterbores, slots, chamfers, reaming, and flat mounting surfaces for stability and aesthetics
   - Lathed Screws to hold business cards
   - Achieves tight tolerances for smooth assembly and long-term durability
 - **Motivation**: Demonstrate hands-on manual machining skills on a real-world, functional product
