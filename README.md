@@ -29,7 +29,9 @@
 - Experiment with materials (brass/steel for heavier duty, anodized aluminum for color)
 
 # Model Photo
-![Precision Machined Flag Holder]() 
+![Precision Machined Flag Holder Top](https://github.com/Alec-Hudson24/Precision-made-Flag-Holder/blob/main/Top%20View.jpeg) 
+![Precision Machined Flag Holder Screw](https://github.com/Alec-Hudson24/Precision-made-Flag-Holder/blob/main/Screw.jpeg) 
+![Precision Machined Flag Holder Screw](https://github.com/Alec-Hudson24/Precision-made-Flag-Holder/blob/main/Back%20Plate.jpeg) 
 *Completed aluminum flag holder showing clean lathe-turned pole mount and milled base features*
 
 *This project was completed in the design and manufactoring Lab, showcasing precision manual machining and design-for-manufacturability principles.*
